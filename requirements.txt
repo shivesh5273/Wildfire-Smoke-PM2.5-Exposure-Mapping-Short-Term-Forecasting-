@@ -1,0 +1,20 @@
+# Core packages 
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+joblib
+
+# EDA / utilities
+tqdm
+
+# For better tables in notebooks
+tabulate
+
+# Model extras (keep for later if you want)
+xgboost
+
+# Deep learning (add when you reach the NN section)
+torch
+tensorflow
